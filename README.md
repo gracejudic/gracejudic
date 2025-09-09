@@ -1,8 +1,6 @@
 👋 Hi !
 <br>
 <br>
-J'étudie à Ada Tech School, où j'apprends le développement fullstack.
-<br>
 <br>
 Mes derniers projets : 
 <br>
